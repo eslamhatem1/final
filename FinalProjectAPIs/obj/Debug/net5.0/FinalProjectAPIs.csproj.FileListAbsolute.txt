@@ -1,0 +1,120 @@
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\appsettings.Development.json
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\appsettings.json
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.exe
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.deps.json
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.runtimeconfig.json
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.runtimeconfig.dev.json
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\ref\FinalProjectAPIs.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.pdb
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Bricelam.EntityFrameworkCore.Pluralizer.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Humanizer.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\finalprojectapis\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.AssemblyInfoInputs.cache
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.AssemblyInfo.cs
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.csproj.CoreCompileInputs.cache
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.MvcApplicationPartsAssemblyInfo.cs
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.MvcApplicationPartsAssemblyInfo.cache
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\EFCorePluralizer.cs
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\scopedcss\bundle\FinalProjectAPIs.styles.css
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\staticwebassets\FinalProjectAPIs.StaticWebAssets.Manifest.cache
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.RazorTargetAssemblyInfo.cache
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.csproj.CopyComplete
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.dll
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\ref\FinalProjectAPIs.dll
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.pdb
+D:\finalprojectapis\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.genruntimeconfig.cache
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\appsettings.json
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.exe
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.deps.json
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.runtimeconfig.json
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.runtimeconfig.dev.json
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\ref\FinalProjectAPIs.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\FinalProjectAPIs.pdb
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Bricelam.EntityFrameworkCore.Pluralizer.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.AssemblyInfoInputs.cache
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.AssemblyInfo.cs
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.csproj.CoreCompileInputs.cache
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\EFCorePluralizer.cs
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\staticwebassets\FinalProjectAPIs.StaticWebAssets.Manifest.cache
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\staticwebassets\FinalProjectAPIs.StaticWebAssets.xml
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\scopedcss\bundle\FinalProjectAPIs.styles.css
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.RazorTargetAssemblyInfo.cache
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.csproj.CopyComplete
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\ref\FinalProjectAPIs.dll
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.pdb
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.genruntimeconfig.cache
+C:\Users\Eslam\Downloads\New folder (3)\FinalProjectAPIs3\FinalProjectAPIs\obj\Debug\net5.0\FinalProjectAPIs.csproj.AssemblyReference.cache
